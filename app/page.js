@@ -13,7 +13,7 @@ export default function Page() {
         </h1>
         <p className="text-center leading-tight mt-2 mx-auto max-w-sm md:max-w-xl text-sm text-gray-600 dark:text-gray-200">Ready-to-use, just copy and paste <span className="opacity-70">className</span> into your code. crafted with <span className="opacity-70">Tailwind CSS</span> tweak it to your taste.</p>
         <div className="mt-7 flex gap-2 items-center justify-center">
-          <Button asChild><Link target="_blank" href="https://github.com/r2hu1/tailwind-bg">View Source</Link></Button>
+          <Button asChild><Link target="_blank" href="https://github.com/Daya3611/tailwind-bg">View Source</Link></Button>
           <Reset />
         </div>
       </div>
